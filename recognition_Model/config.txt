@@ -1,0 +1,4 @@
+train:./training
+validation:./testing
+epochs:1000
+lr:0.001

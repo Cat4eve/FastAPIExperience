@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pytesseract
+numpy
+pandas
+pysqlite3
+requests
+scikit-learn
+Pillow
+matplotlib
